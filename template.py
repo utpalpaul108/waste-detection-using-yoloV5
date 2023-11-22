@@ -40,7 +40,9 @@ list_of_files = [
     f'src/{project_name}/constants/__init__.py',
 
     # For Notebooks
-    f'notebooks/trials.ipynb',
+    'notebooks/data_ingestion.ipynb',
+    'notebooks/data_validation.ipynb',
+    'notebooks/model_training.ipynb',
 
     # For Config & Params
     'config/config.yaml',

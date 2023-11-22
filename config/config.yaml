@@ -1,0 +1,21 @@
+artifacts_root: artifacts
+
+
+# Data Ingestion
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://drive.google.com/file/d/1YBtZfdYtJ341DJ51JJFA8iOrHC4A9b22/view?usp=sharing
+  raw_dataset_dir: artifacts/data_ingestion/raw_dataset
+  dataset_dir: artifacts/data_ingestion/dataset
+
+
+# Data Validation
+data_validation:
+  root_dir: artifacts/data_validation
+  validation_status_file_path: artifacts/data_validation/status.txt
+
+
+# Model Training
+model_training:
+  root_dir: artifacts/model_training
+  yolo_model_gitgub_url: https://github.com/ultralytics/yolov5.git

@@ -1,10 +1,14 @@
 dill==0.3.5.1
 from-root==1.0.2
-notebook==7.0.0a7
 gdown
-flask-cors
-flask
-
+notebook
+python-box==6.0.2
+PyYAML
+tqdm
+ensure==1.0.2
+joblib
+Flask
+Flask-Cors
 
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
