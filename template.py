@@ -18,7 +18,7 @@ list_of_files = [
     f'src/{project_name}/components/__init__.py',
     f'src/{project_name}/components/data_ingestion.py',
     f'src/{project_name}/components/data_validation.py',
-    f'src/{project_name}/components/model_trainer.py',
+    f'src/{project_name}/components/model_training.py',
 
     # For Utils
     f'src/{project_name}/utils/__init__.py',
