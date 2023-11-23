@@ -19,3 +19,9 @@ data_validation:
 model_training:
   root_dir: artifacts/model_training
   yolo_model_gitgub_url: https://github.com/ultralytics/yolov5.git
+  best_weight_file_path: artifacts/model_training/best.pt
+
+
+# Prediction
+prediction:
+  root_dir: artifacts/prediction

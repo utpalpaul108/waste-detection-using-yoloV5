@@ -165,7 +165,7 @@ def decodeImage(img_str: str, file_name: str):
 
 
 @ensure_annotations
-def encodeImageIntoBase64(img_path: Path)->str:
+def encodeImageIntoBase64(img_path: Path):
 
     """return image as base64 encoded string
 
