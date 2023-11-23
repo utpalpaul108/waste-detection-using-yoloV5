@@ -86,9 +86,9 @@ jobs:
         run: |
          docker pull ${{secrets.AWS_ECR_LOGIN_URI}}/${{ secrets.ECR_REPOSITORY_NAME }}:latest
          
-      - name: Stop and remove  container if running
-        run: |
-         docker ps -q --filter "name=waste-detection" | grep -q . && docker stop waste-detection && docker rm -fv waste-detection
+      # - name: Stop and remove  container if running
+      #   run: |
+      #    docker ps -q --filter "name=waste-detection" | grep -q . && docker stop waste-detection && docker rm -fv waste-detection
        
       - name: Run Docker Image to serve users
         run: |
