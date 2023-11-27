@@ -112,6 +112,7 @@ http://localhost:8080/live
 
 	
 **STEP 02 :** Create ECR repo to store/save docker image
+
     - Save the URI: 681776806933.dkr.ecr.us-east-2.amazonaws.com/waste-detection
 
 	
