@@ -26,7 +26,7 @@
 
 ## <div style="padding-top: 20px" align="center"> Steps to run </div>
 
-<div><b>STEP 00 :</b> Clone the repository</div>
+<div style="padding-bottom:10px"><b>STEP 00 :</b> Clone the repository</div>
 
 ```bash
 https://github.com/utpal108/waste-detection-using-yoloV5
@@ -46,7 +46,7 @@ python3.10 -m venv venv
 source venv/bin/activate
 ```
 
-<div style="padding-top:10px"><b>STEP 02 :</b> Install the requirements</div>
+<div style="padding-top:10px; padding-bottom:10px"><b>STEP 02 :</b> Install the requirements</div>
 
 ```bash
 pip install -r requirements.txt
