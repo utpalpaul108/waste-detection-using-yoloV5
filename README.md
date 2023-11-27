@@ -1,5 +1,12 @@
 # Waste Detection using yoloV5
 
+
+## Examples
+
+<img src="examples/example_01.png" width="500">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="examples/example_02.png" width="500">
+
+
 ## Workflows
 
 1. Update config.yaml
