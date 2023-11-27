@@ -1,10 +1,10 @@
-# <div align='center'>Waste Detection Using YOLOv5 </div>
+# <div align='center'>Waste Detection Using YOLOv5 🚀</div>
 
 
 ## Examples
 
-<img src="examples/example_01.png" width="450">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="examples/example_02.png" width="450">
+<img src="examples/example_01.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="examples/example_02.png" width="400">
 
 
 ## Workflows
